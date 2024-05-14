@@ -47,7 +47,7 @@
 		<repository>
 			<id>coit-backend1</id>
 			<name>coit-backend1</name>
-			<url>http://44.204.47.98:8081/repository/coit-backend1/</url>
+			<url>http://54.211.94.229:8081/repository/coit-backend1/</url>
 		</repository>
 		<snapshotRepository>
 			<id>coit-backend1-snapshot</id>
